@@ -1,4 +1,5 @@
 streamlit
-opencv-python-headless
-ultralytics
-supervision
+opencv-python-headless==4.9.0.80
+ultralytics==8.2.59
+supervision==0.21.0
+numpy<2
